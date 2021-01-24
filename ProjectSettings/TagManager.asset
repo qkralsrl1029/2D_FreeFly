@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - Mountain
+  - Cloud1
+  - Player
+  - Cloud2
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3564134869
+    locked: 0
+  - name: Mountain
+    uniqueID: 651185997
+    locked: 0
+  - name: Cloud1
+    uniqueID: 2262107155
+    locked: 0
+  - name: Player
+    uniqueID: 2870084871
+    locked: 0
+  - name: Cloud2
+    uniqueID: 248863427
+    locked: 0
+  - name: Block
+    uniqueID: 2539343599
+    locked: 0
